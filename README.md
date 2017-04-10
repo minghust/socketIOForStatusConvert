@@ -6,7 +6,5 @@ A socketIO server for converting users' status
 - Difficult:)
 # Dependency
 [pm2](https://github.com/Unitech/pm2) deploy plan
-#Run
-
 # Licence
 MIT

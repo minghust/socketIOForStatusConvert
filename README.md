@@ -11,7 +11,7 @@ A socketIO server for converting users' status
 
 
 # Run
-        cd ~
+	cd ~
 	git clone https://github.com/minghust/socketIOForStatusConvert.git
 	cd socketIOForStatusConvert
 	npm install

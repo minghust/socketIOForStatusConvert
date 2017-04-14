@@ -12,11 +12,11 @@ A socketIO server for converting users' status
 
 # Run
         cd ~
-		git clone https://github.com/minghust/socketIOForStatusConvert.git
-		cd socketIOForStatusConvert
-		npm install
-		node server.js
-		pm2 start bot.js -i 10
+	git clone https://github.com/minghust/socketIOForStatusConvert.git
+	cd socketIOForStatusConvert
+	npm install
+	node server.js
+	pm2 start bot.js -i 10
  
 you can modify the number of process, the number above is ten, which means that starting 10 processes to simulate 10 clients to connect server.
 
